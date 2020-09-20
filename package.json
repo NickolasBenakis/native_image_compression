@@ -1,0 +1,9 @@
+{
+  "name": "web_assembly_unipi",
+  "version": "1.0.0",
+  "description": "MSc thesis",
+  "main": "index.js",
+  "author": "Nikolaos Benakis",
+  "license": "MIT",
+  "private": true
+}
